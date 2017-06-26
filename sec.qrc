@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>defaultImage.jpg</file>
+        <file>phone.jpg</file>
+        <file>hideImage.jpg</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>522185.png</file>
+        <file>522191.png</file>
+        <file>531948.png</file>
+        <file>543992.png</file>
+        <file>548300.png</file>
+        <file>1077538.png</file>
+        <file>1095885.png</file>
+        <file>1173836.png</file>
+        <file>1181442.png</file>
+        <file>1183707.png</file>
+        <file>1184636.png</file>
+        <file>1194719.png</file>
+        <file>1201772.png</file>
+        <file>1202638.png</file>
+        <file>1203030.png</file>
+        <file>1203032.png</file>
+        <file>1205821.png</file>
+        <file>1205836.png</file>
+        <file>add_music.png</file>
+        <file>add_image.png</file>
+    </qresource>
+</RCC>
